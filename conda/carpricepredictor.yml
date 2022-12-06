@@ -1,0 +1,20 @@
+name: carpricepredictor
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - catboost
+  - fastapi
+  - ipykernel
+  - lightgbm
+  - matplotlib
+  - numpy
+  - pandas
+  - pydantic
+  - requests
+  - scikit-learn
+  - seaborn
+  - streamlit
+  - uvicorn
+  - xgboost
